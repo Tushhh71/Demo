@@ -2,4 +2,4 @@
 Demo of GitHub
 
 
-this file contains details of the project.gdfshj
+this file contains details of the project.
